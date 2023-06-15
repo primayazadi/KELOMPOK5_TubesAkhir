@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMqSUc7ilVmZuVAwspolm6wOMwmDQ159mT8yV9F64ZlZBcKRZk0BUAYg6SefYV2kOwBQm3Le+7QjRwP66T2xNg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\Documents\\TUGAS ADEK\\SEMESTER 4\\KPL\\Tubes_Kelompok5\\Tubes_Kelompok5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\asus\\OneDrive\\Pictures\\kpl shielda final\\tubesAKHIR_Kelompok5\\tubesAKHIR_Kelompok5\\tubesAKHIR_Shielda.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\asus\\OneDrive\\Pictures\\kpl shielda final\\tubesAKHIR_Kelompok5\\tubesAKHIR_Kelompok5\\tubesAKHIR_Shielda.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
